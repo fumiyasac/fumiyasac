@@ -1,5 +1,50 @@
 ### Hi there 👋
 
+#### fumiyasac (Fumiya Sakai)
+
+アプリのUI実装が好きな元デザイナーからジョブチェンジをしたエンジニア。
+まだまだ学ぶことは沢山ありますが「整理・負担を軽く」＆「感謝され期待に添えること」の2つをコンセプトに技術を磨く毎日です。平素の業務以外でもQiitaやGithub等でもUI実装に関するサンプルや解説記事を投稿したり主にiOS界隈での勉強会でたまに登壇しています。
+アイデアを練ったり、設計のためのメモや図解を作る時はもっぱら手書きで描くことが多いです。
+
+#### Skills 📲 
+
+![iOS](https://img.shields.io/badge/iOS-17a2b8.svg?style=for-the-badge)
+![Swift](https://img.shields.io/badge/Swift-17a2b8.svg?style=for-the-badge)
+![Android](https://img.shields.io/badge/Android-17a2b8.svg?style=for-the-badge)
+![Kotlin](https://img.shields.io/badge/Kotlin-17a2b8.svg?style=for-the-badge)
+![PHP](https://img.shields.io/badge/PHP-17a2b8.svg?style=for-the-badge)
+![Ruby](https://img.shields.io/badge/Ruby-17a2b8.svg?style=for-the-badge)
+![Go](https://img.shields.io/badge/Go-17a2b8.svg?style=for-the-badge)
+![ReactNative](https://img.shields.io/badge/ReactNative-17a2b8.svg?style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-17a2b8.svg?style=for-the-badge)
+![UIDesigin](https://img.shields.io/badge/UIDesigin-17a2b8.svg?style=for-the-badge)
+
+#### Books 📖 
+
+iOSアプリ開発のトピックの中でも、これまでデザイナー → Webエンジニア → iOSアプリエンジニアという経験を経てきたということを生かしアプリUIの実装方法に関するTIPSを解説した書籍を執筆しています。
+（書籍につきましてはBooth等で購入できますので是非覗いて見て頂けると嬉しいです）
+
+https://just1factory.net/books/
+
+#### Links 📝 
+
+- [Github](https://github.com/fumiyasac)
+- [SlideShare](https://www.slideshare.net/fumiyasakai37)
+- [Qiita](https://qiita.com/fumiyasac@github)
+- [Medium](https://medium.com/@fumiyasakai/)
+- [Twitter](https://twitter.com/fumiyasac)
+- [Facebook](https://www.facebook.com/fumiya.sakai.37)
+- [LinkedIn](https://www.linkedin.com/in/%E6%96%87%E4%B9%9F-%E9%85%92%E4%BA%95-77363a48/)
+- [note](https://note.com/fumiyasac)
+
+#### Stats 😄
+
+<img src="https://github-readme-stats.vercel.app/api?username=fumiyasac&show_icons=true&theme=radical" alt="fumiyasac Stats">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fumiyasac" alt="fumiyasac Top Languages">
+
+<img src="https://github-profile-trophy.vercel.app/?username=fumiyasac" alt="fumiyasac trophy">
+
 <!--
 **fumiyasac/fumiyasac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
