@@ -12,6 +12,7 @@
 ![Swift](https://img.shields.io/badge/Swift-17a2b8.svg?style=for-the-badge)
 ![Android](https://img.shields.io/badge/Android-17a2b8.svg?style=for-the-badge)
 ![Kotlin](https://img.shields.io/badge/Kotlin-17a2b8.svg?style=for-the-badge)
+![Flutter](https://img.shields.io/badge/Flutter-17a2b8.svg?style=for-the-badge)
 ![PHP](https://img.shields.io/badge/PHP-17a2b8.svg?style=for-the-badge)
 ![Ruby](https://img.shields.io/badge/Ruby-17a2b8.svg?style=for-the-badge)
 ![Go](https://img.shields.io/badge/Go-17a2b8.svg?style=for-the-badge)
