@@ -10,6 +10,7 @@
 
 ![iOS](https://img.shields.io/badge/iOS-17a2b8.svg?style=for-the-badge)
 ![Swift](https://img.shields.io/badge/Swift-17a2b8.svg?style=for-the-badge)
+![Dart](https://img.shields.io/badge/Dart-17a2b8.svg?style=for-the-badge)
 ![Android](https://img.shields.io/badge/Android-17a2b8.svg?style=for-the-badge)
 ![Kotlin](https://img.shields.io/badge/Kotlin-17a2b8.svg?style=for-the-badge)
 ![Flutter](https://img.shields.io/badge/Flutter-17a2b8.svg?style=for-the-badge)
