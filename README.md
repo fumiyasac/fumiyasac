@@ -19,7 +19,7 @@
 ![Go](https://img.shields.io/badge/Go-17a2b8.svg?style=for-the-badge)
 ![ReactNative](https://img.shields.io/badge/ReactNative-17a2b8.svg?style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/JavaScript-17a2b8.svg?style=for-the-badge)
-![UIDesigin](https://img.shields.io/badge/UIDesigin-17a2b8.svg?style=for-the-badge)
+![UIDesign](https://img.shields.io/badge/UIDesign-17a2b8.svg?style=for-the-badge)
 
 #### Books 📖 
 
