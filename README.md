@@ -30,17 +30,18 @@ iOSアプリ開発のトピックの中でも、これまでデザイナー → 
 
 <img height="240" src="https://just1factory.net/books/ui_recipt_book_vol1.jpg">  <img height="240" src="https://just1factory.net/books/ui_recipt_book_vol2.jpg">  <img height="240" src="https://just1factory.net/books/ui_recipt_book_meals.jpg">  <img height="240" src="https://just1factory.net/books/ui_recipt_book_meals2.jpg">
 
-https://just1factory.net/books/
-
 __【商業誌 ※Amazon等で購入可能です】__
 
 <a href="https://www.amazon.co.jp/dp/B07NQDXY1F/"><img height="240" src="https://user-images.githubusercontent.com/949561/119851710-9946bd80-bf49-11eb-881c-14d716756147.jpg"></a>  <a href="https://www.amazon.co.jp/dp/B0843RXCB6/"><img height="240" src="https://user-images.githubusercontent.com/949561/119851733-9d72db00-bf49-11eb-9966-14553363a0c4.jpg"></a>
 
 #### Links 📝 
 
-- [Github](https://github.com/fumiyasac)
+https://just1factory.net/books/
+
+- [GitHub](https://github.com/fumiyasac)
 - [SlideShare](https://www.slideshare.net/fumiyasakai37)
 - [Qiita](https://qiita.com/fumiyasac@github)
+- [Zenn(scrap only)](https://zenn.dev/fumiyasac/scraps)
 - [Medium](https://medium.com/@fumiyasakai/)
 - [Twitter](https://twitter.com/fumiyasac)
 - [Facebook](https://www.facebook.com/fumiya.sakai.37)
