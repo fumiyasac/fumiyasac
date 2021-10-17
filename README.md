@@ -32,7 +32,7 @@ iOSアプリ開発のトピックの中でも、これまでデザイナー → 
 
 __【商業誌 ※Amazon等で購入可能です】__
 
-<a href="https://www.amazon.co.jp/dp/B07NQDXY1F/"><img height="240" src="https://user-images.githubusercontent.com/949561/119851710-9946bd80-bf49-11eb-881c-14d716756147.jpg"></a>  <a href="https://www.amazon.co.jp/dp/B0843RXCB6/"><img height="240" src="https://user-images.githubusercontent.com/949561/119851733-9d72db00-bf49-11eb-9966-14553363a0c4.jpg"></a>
+<a href="https://www.amazon.co.jp/dp/B07NQDXY1F/"><img height="240" src="https://user-images.githubusercontent.com/949561/119851710-9946bd80-bf49-11eb-881c-14d716756147.jpg"></a>  <a href="https://www.amazon.co.jp/dp/B0843RXCB6/"><img height="240" src="https://user-images.githubusercontent.com/949561/119851733-9d72db00-bf49-11eb-9966-14553363a0c4.jpg"></a>  <a href="https://www.amazon.co.jp/dp/B09HX6MQ1T/"><img height="240" src="https://user-images.githubusercontent.com/949561/137623229-8921723b-6a29-4aec-82f2-c5c3460d1e80.jpg"></a>
 
 #### Links 📝 
 
