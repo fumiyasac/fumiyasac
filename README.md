@@ -39,9 +39,10 @@ __【商業誌 ※Amazon等で購入可能です】__
 https://just1factory.net/books/
 
 - [GitHub](https://github.com/fumiyasac)
+- [Speaker Deck](https://speakerdeck.com/fumiyasac0921)
 - [SlideShare](https://www.slideshare.net/fumiyasakai37)
 - [Qiita](https://qiita.com/fumiyasac@github)
-- [Zenn(scrap only)](https://zenn.dev/fumiyasac/scraps)
+- [Zenn(Article & Scrap)](https://zenn.dev/fumiyasac)
 - [Medium](https://medium.com/@fumiyasakai/)
 - [Twitter](https://twitter.com/fumiyasac)
 - [Facebook](https://www.facebook.com/fumiya.sakai.37)
